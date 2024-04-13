@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Toby-18cm
 - 👀 I’m interested in myself
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ? You can't
 
 <!---
